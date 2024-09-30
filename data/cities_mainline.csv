@@ -1,0 +1,27 @@
+Area,City,x,y,TB/s,in_mainline
+1,Warszawa,100,65,-,1
+1,Skierniewice,92,62,197,1
+1,Lódz,85,58,317,0
+1,Konin,68,64,236,0
+1,Sieradz,72,55,178,0
+1,Piotrków,89,51,139,1
+1,Radom,102,50,288,1
+2,Kielce,98,42,-,1
+2,Czestochowa,79,40,278,0
+2,Bytom,76,31,163,0
+2,Gliwice,73,30,105,1
+2,Sosnowiec,80,29,143,0
+2,Kraków,89,25,331,1
+2,Bielsko,79,20,276,1
+2,Katowice,78,28,263,0
+2,Jastrzębie-Zdrój,74,23,137,1
+2,Wodzisław Śląski,71,23,119,0
+3,Poznań,54,68,251,0
+3,Zielona Góra,39,60,121,0
+3,Leszno,51,58,84,1
+3,Kalisz,65,58,207,1
+3,Legnica,45,47,176,1
+3,Wrocław,54,45,133,0
+3,Jelenia Góra,40,42,167,1
+3,Wałbrzych,46,39,129,0
+3,Opole,67,37,-,1
