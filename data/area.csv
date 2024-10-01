@@ -1,4 +1,4 @@
-Area,Minimum cities in main line,Starting city,Ending city,Include at least,Include at most
-1,4,Warszawa,Radom,Konin,
-2,5,Kielce,Gliwice,,Bytom;Sosnowiec;Katowice|Wodzisław Śląski;Jastrzębie-Zdrój
-3,5,Opole,Jelenia Góra,Kalisz|Poznań;Zielona Góra;Leszno,
+Area,Minimum cities in main line,Starting city,Ending city
+1,4,Warszawa,Radom
+2,5,Kielce,Gliwice
+3,5,Opole,Jelenia Góra
